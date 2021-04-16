@@ -2,6 +2,7 @@
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning ESP-IDF
 - 💞️ I’m looking to collaborate on IoT
+- MAJU BERSAMA.. HEBAT SEMUA...
 
 <!---
 azzamwildan462/azzamwildan462 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
