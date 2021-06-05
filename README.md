@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @azzamwildan462
 - 👀 I’m interested in Computer
-- 🌱 I’m currently learning ESP-IDF
-- 💞️ I’m looking to collaborate on IoT
+- 🌱 I’m currently learning Girl language :v
 - MAJU BERSAMA.. HEBAT SEMUA...
 
 <!---
